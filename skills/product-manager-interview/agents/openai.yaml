@@ -1,0 +1,5 @@
+interface:
+  display_name: "Product Manager Interview"
+  short_description: "Practise structured Product Manager interviews"
+  default_prompt: "Use $product-manager-interview to run a realistic Product Manager interview question, probe my answer, and score my reasoning."
+
